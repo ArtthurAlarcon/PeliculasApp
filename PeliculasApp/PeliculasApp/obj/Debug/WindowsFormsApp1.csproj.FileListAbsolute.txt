@@ -1,0 +1,10 @@
+C:\Users\arttu\source\repos\PeliculasApp\PeliculasApp\bin\Debug\PeliculasApp.exe.config
+C:\Users\arttu\source\repos\PeliculasApp\PeliculasApp\bin\Debug\PeliculasApp.exe
+C:\Users\arttu\source\repos\PeliculasApp\PeliculasApp\bin\Debug\PeliculasApp.pdb
+C:\Users\arttu\source\repos\PeliculasApp\PeliculasApp\obj\Debug\PeliculasApp.csprojAssemblyReference.cache
+C:\Users\arttu\source\repos\PeliculasApp\PeliculasApp\obj\Debug\PeliculasApp.FormPrincipal.resources
+C:\Users\arttu\source\repos\PeliculasApp\PeliculasApp\obj\Debug\PeliculasApp.Properties.Resources.resources
+C:\Users\arttu\source\repos\PeliculasApp\PeliculasApp\obj\Debug\PeliculasApp.csproj.GenerateResource.cache
+C:\Users\arttu\source\repos\PeliculasApp\PeliculasApp\obj\Debug\PeliculasApp.csproj.CoreCompileInputs.cache
+C:\Users\arttu\source\repos\PeliculasApp\PeliculasApp\obj\Debug\PeliculasApp.exe
+C:\Users\arttu\source\repos\PeliculasApp\PeliculasApp\obj\Debug\PeliculasApp.pdb
